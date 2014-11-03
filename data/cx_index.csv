@@ -1,0 +1,175 @@
+company,cxi,ticker,industry,cx_survey_year
+Southwest Airlines,81,LUV,Airlines,2014
+Delta Air Lines,79,DAL,Airlines,2014
+JetBlue Airways,77,JBLU,Airlines,2014
+Alaska Airlines,74,ALK,Airlines,2014
+US Airways, 71,LCC,Airlines,2014
+United Airlines,67,UAL,Airlines,2014
+USAA,86,,Banks,2014
+Other credit union,85,,Banks,2014
+Other regional or community/local bank,82,,Banks,2014
+Navy Federal Credit Union,82,,Banks,2014
+Ally Bank,78,,Banks,2014
+TD Bank,78,,Banks,2014
+Capital One 360 (ING Direct),77,,Banks,2014
+SunTrust Bank,76,,Banks,2014
+Chase,74,,Banks,2014
+PNC,74,,Banks,2014
+Citibank,74,,Banks,2014
+US Bank,72,,Banks,2014
+Wells Fargo,71,,Banks,2014
+Regions Bank,71,,Banks,2014
+Fifth Third,70,,Banks,2014
+HSBC,69,,Banks,2014
+Bank of America,66,,Banks,2014
+BB&T,61,BBT,Banks,2014
+Amazon (Kindle),91,AMZN,CES,2014
+Sony,83,,CES,2014
+Microsoft,82,,CES,2014
+Samsung,82,,CES,2014
+HP,81,,CES,2014
+Apple,81,,CES,2014
+Nintendo (Wii/DS),80,,CES,2014
+Panasonic,78,,CES,2014
+Vizio,78,,CES,2014
+LG,78,,CES,2014
+Dell,76,,CES,2014
+HTC,75,,CES,2014
+Toshiba,75,,CES,2014
+Gateway,73,,CES,2014
+Acer,72,,CES,2014
+BlackBerry,71,,CES,2014
+Motorola,69,,CES,2014
+USSA,87,,Credit Card Providers,2014
+American Express,79,,Credit Card Providers,2014
+Barclaycard,78,,Credit Card Providers,2014
+Discover,76,,Credit Card Providers,2014
+Citi,75,,Credit Card Providers,2014
+Chase,73,,Credit Card Providers,2014
+PNC,71,,Credit Card Providers,2014
+Bank of America,68,,Credit Card Providers,2014
+Capital One,68,,Credit Card Providers,2014
+Wells Fargo,68,,Credit Card Providers,2014
+US Bank,64,,Credit Card Providers,2014
+GE Capital Retail Bank,63,,Credit Card Providers,2014
+Kaiser,76,,Health Insurance Providers,2014
+Blue Cross Blue Shield of Michigan,75,,Health Insurance Providers,2014
+Blue Cross Blue Shield of Illinois,74,,Health Insurance Providers,2014
+United Healthcare,67,,Health Insurance Providers,2014
+Humana,67,,Health Insurance Providers,2014
+Blue Cross Blue Shield of Texas,62,,Health Insurance Providers,2014
+Other Blue Cross Blue Shield,62,,Health Insurance Providers,2014
+Aetna,60,AET,Health Insurance Providers,2014
+Cigna,59,CI,Health Insurance Providers,2014
+Anthem Blue Cross Blue Shield,58,,Health Insurance Providers,2014
+Medicaid,57,,Health Insurance Providers,2014
+Courtyard by Marriott,90,MAR,Hotels,2014
+Marriott Hotels & Resorts,87,MAR,Hotels,2014
+Hilton Hotels,84,,Hotels,2014
+Hyatt Hotels & Resorts,83,,Hotels,2014
+Hampton Inn/Suites,82,,Hotels,2014
+La Quinta Inn & Suites,82,,Hotels,2014
+Holiday Inn Express,81,,Hotels,2014
+Embassy Suites,79,,Hotels,2014
+Best Western,79,,Hotels,2014
+Holiday Inn,78,,Hotels,2014
+Hilton Garden Inns,77,,Hotels,2014
+Comfort Inn,74,,Hotels,2014
+Days Inn,74,,Hotels,2014
+Wyndham Hotels & Resorts,68,,Hotels,2014
+USAA,87,,Insurance Providers,2014
+State Farm,78,,Insurance Providers,2014
+Geico,76,,Insurance Providers,2014
+AAA,75,,Insurance Providers,2014
+Nationwide,75,,Insurance Providers,2014
+Liberty Mutual,74,,Insurance Providers,2014
+Other independent insurance agent,73,,Insurance Providers,2014
+New York Life,72,,Insurance Providers,2014
+American Family,72,,Insurance Providers,2014
+Allstate,72,,Insurance Providers,2014
+Progressive,71,,Insurance Providers,2014
+MetLife,70,,Insurance Providers,2014
+The Hartford,67,,Insurance Providers,2014
+Farmers Insurance,67,,Insurance Providers,2014
+Travelers,62,TRV,Insurance Providers,2014
+AOL,79,,Internet Service Providers,2014
+Verizon FiOS,76,,Internet Service Providers,2014
+Cox Communications,73,,Internet Service Providers,2014
+Verizon (DSL),70,,Internet Service Providers,2014
+Bright House Networks,67,,Internet Service Providers,2014
+Charter,66,CHTR,Internet Service Providers,2014
+AT&T U-Verse,66,,Internet Service Providers,2014
+Cablevision,66,,Internet Service Providers,2014
+Comcast,61,CMCSA,Internet Service Providers,2014
+Time Warner Cable,60,TWC,Internet Service Providers,2014
+Century Link,49,CTL,Internet Service Providers,2014
+Ameriprise Financial,84,,Investment Firms,2014
+Edward Jones,83,,Investment Firms,2014
+TD AMeritrade,80,,Investment Firms,2014
+Fidelity Investments,79,,Investment Firms,2014
+Vanguard,79,,Investment Firms,2014
+Charles Schwab,78,,Investment Firms,2014
+Other full-service brokerage,73,,Investment Firms,2014
+Merrill Lynch,72,,Investment Firms,2014
+Morgan Stanley Wealth Management,71,,Investment Firms,2014
+E-Trade,68,,Investment Firms,2014
+Other credit union,68,,Investment Firms,2014
+Wells Fargo Advisors,66,,Investment Firms,2014
+UPS,82,,Package Delivery Services,2014
+FedEx,79,,Package Delivery Services,2014
+United States Postal Service,77,,Package Delivery Services,2014
+National Car Rental,74,,Rental Car Providers,2014
+Dollar Rental Car,71,,Rental Car Providers,2014
+Budget Rent A Car,71,,Rental Car Providers,2014
+Avis Rent A Car,71,,Rental Car Providers,2014
+Enterprise Rent-A-Car,71,,Rental Car Providers,2014
+Hertz,66,,Rental Car Providers,2014
+Alamo Rent A Car,65,,Rental Car Providers,2014
+Old Navy,90,GPS,Retailers,2014
+Kohl's,89,KSS,Retailers,2014
+Amazon,88,AMZN,Retailers,2014
+Costco,87,COST,Retailers,2014
+Macy's,87,M,Retailers,2014
+JCPenney,86,JCP,Retailers,2014
+Sam's Club,86,WMT,Retailers,2014
+Target,86,,Retailers,2014
+TJ Maxx,86,,Retailers,2014
+Lowe's,85,,Retailers,2014
+CVS,85,,Retailers,2014
+Home Depot,85,,Retailers,2014
+Walgreens,84,,Retailers,2014
+BJ's Wholesale Club,82,,Retailers,2014
+Barnes & Noble,82,,Retailers,2014
+Rite Aid,82,,Retailers,2014
+eBay,81,,Retailers,2014
+Office Depot,80,,Retailers,2014
+Toys R Us,79,,Retailers,2014
+Best Buy,79,,Retailers,2014
+Wal-Mart,79,,Retailers,2014
+Marshall's,78,,Retailers,2014
+Staples,77,,Retailers,2014
+OfficeMax,77,,Retailers,2014
+Kmart,77,,Retailers,2014
+Sears,75,,Retailers,2014
+RadioShack,65,,Retailers,2014
+Dish Network/EchoStar,74,,TV Service Providers,2014
+Verizon FiOS,71,,TV Service Providers,2014
+DirecTV,69,,TV Service Providers,2014
+AT&T U-Verse,69,,TV Service Providers,2014
+Bright House Networks,69,,TV Service Providers,2014
+Cablevision/Interactive Optimum (iO),68,,TV Service Providers,2014
+Cox Communications,67,,TV Service Providers,2014
+Other cable TV provider,63,,TV Service Providers,2014
+Charter Communications,61,CHTR,TV Service Providers,2014
+Comcast,59,CMCSA,TV Service Providers,2014
+Time Warner Cable,56,TWC,TV Service Providers,2014
+Verizon Wireless,74,,Wireless Service Providers,2014
+Boost Mobile,74,,Wireless Service Providers,2014
+AT&T Wireless,72,,Wireless Service Providers,2014
+TracFone,72,,Wireless Service Providers,2014
+T-Mobile,70,,Wireless Service Providers,2014
+Cricket (Leap wireless),70,,Wireless Service Providers,2014
+Straight Talk,69,,Wireless Service Providers,2014
+MetroPCS,68,,Wireless Service Providers,2014
+Sprint,66,,Wireless Service Providers,2014
+Virgin Mobile,62,,Wireless Service Providers,2014

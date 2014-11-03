@@ -1,0 +1,14 @@
+```{r echo=FALSE}
+read_chunk('../helpers/test.R')
+```
+
+# This is a markdown heading
+
+* This is an insight in a bullet
+
+The insight we are discussing has a graph:
+
+```{r fig.cap='A caption', fig.path=paste0(getwd(), '/reports/output/figures/'), echo = FALSE, peopleJoinDate}
+```
+
+***
